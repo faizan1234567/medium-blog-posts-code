@@ -4,3 +4,4 @@
 *.pt
 __pycache__/
 wandb/
+FashionMNIST/
