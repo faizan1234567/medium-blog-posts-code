@@ -26,4 +26,4 @@ view your project runs
 
 
 ## Acknowledgements
-[1]. Weights & Baises
+[1]. [Weights & Baises](https://wandb.ai/site)
