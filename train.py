@@ -1,5 +1,6 @@
 import torch, torchvision
 import torch.nn as nn
+import torchvision.transforms as T
 import numpy as np
 import matplotlib.pyplot as plt
 import wandb
@@ -119,4 +120,4 @@ if __name__ == "__main__":
     else:
         train(3, 10)
 
-        
+

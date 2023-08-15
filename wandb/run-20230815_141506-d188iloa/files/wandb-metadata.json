@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-08-15T09:15:09.179825",
+    "startedAt": "2023-08-15T09:15:06.534337",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--epochs",
+        "10",
+        "--batch",
+        "128",
+        "--experiments",
+        "3"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/faizan1234567/medium-blog-posts-code.git",
+        "commit": "203bfb7fe58fb5ccaec3c19b70a0114cbf149763"
+    },
+    "email": "mohammadfaizantanoli@gmail.com",
+    "root": "E:/medium posts/MLOps wandb/medium-blog-posts-code",
+    "host": "DESKTOP-TO3KQ4F",
+    "username": "faizan",
+    "executable": "C:\\Users\\faizan\\anaconda3\\envs\\wandb\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1801.0,
+        "min": 0.0,
+        "max": 1801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1801.0,
+            "min": 0.0,
+            "max": 1801.0
+        }
+    ],
+    "disk": {
+        "total": 390.62304306030273,
+        "used": 69.45833969116211
+    },
+    "memory": {
+        "total": 7.880100250244141
+    }
+}
