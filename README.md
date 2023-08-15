@@ -1,4 +1,6 @@
 # MLOps with Weights & Baises
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X3WCeorWdfCAkdGRb4nZyshuV5XCf9x6#scrollTo=a5EiU3q04YRB)
+
 Weights & Baises helps developers build better models faster. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage your ML workflows end-to-end.
 ![alt text](https://github.com/faizan1234567/medium-blog-posts-code/blob/main/images/mlops.png)
 
