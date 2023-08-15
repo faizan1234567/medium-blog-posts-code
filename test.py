@@ -1,4 +1,6 @@
 import torch
+from utils import log_image_table
+
 
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
